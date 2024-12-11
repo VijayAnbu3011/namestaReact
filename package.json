@@ -1,0 +1,27 @@
+{
+  "name": "learreact",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VijayAnbu3011/namestaReact.git"
+  },
+  "author": "Vijay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VijayAnbu3011/namestaReact/issues"
+  },
+  "homepage": "https://github.com/VijayAnbu3011/namestaReact#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.13.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
